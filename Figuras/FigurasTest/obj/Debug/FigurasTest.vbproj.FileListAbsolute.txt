@@ -1,0 +1,13 @@
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasTest.exe.config
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasTest.exe
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasTest.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasEntidades.dll
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasEntidades.pdb
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\bin\Debug\FigurasEntidades.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.vbprojResolveAssemblyReference.cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.Resources.resources
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.vbproj.GenerateResource.Cache
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.exe
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.xml
+C:\Users\Anibal\Documents\Visual Studio 2015\Projects\Visual\POO\Figuras\FigurasTest\obj\Debug\FigurasTest.pdb
